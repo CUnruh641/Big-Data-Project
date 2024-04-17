@@ -8,6 +8,7 @@ import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Mapper;
 
 // Haebin Noh
+// Range of highest and lowest temperatures for each season in each city
 
 public class MyMapper extends Mapper<LongWritable, Text, Text, DoubleWritable>{
     
