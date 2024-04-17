@@ -1,4 +1,4 @@
-# MapReducers
+# Team: MapReducers
 Haebin Noh, Corey Unruh, William Colbert, Bishal Adhikari
 
 
