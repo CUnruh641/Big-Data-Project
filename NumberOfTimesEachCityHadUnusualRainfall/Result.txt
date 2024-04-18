@@ -1,0 +1,196 @@
+Albany,Autumn	55.0
+Albany,Spring	66.0
+Albany,Summer	64.0
+Albany,Winter	57.0
+Annapolis,Autumn	42.0
+Annapolis,Spring	60.0
+Annapolis,Summer	54.0
+Annapolis,Winter	58.0
+Atlanta,Autumn	46.0
+Atlanta,Spring	51.0
+Atlanta,Summer	65.0
+Atlanta,Winter	54.0
+Augusta,Autumn	52.0
+Augusta,Spring	54.0
+Augusta,Summer	51.0
+Augusta,Winter	50.0
+Austin,Autumn	34.0
+Austin,Spring	45.0
+Austin,Summer	31.0
+Austin,Winter	26.0
+Bismarck,Autumn	31.0
+Bismarck,Spring	41.0
+Bismarck,Summer	39.0
+Bismarck,Winter	54.0
+Boise,Autumn	38.0
+Boise,Spring	47.0
+Boise,Summer	22.0
+Boise,Winter	55.0
+Boston,Autumn	52.0
+Boston,Spring	60.0
+Boston,Summer	49.0
+Boston,Winter	57.0
+Carson City,Autumn	20.0
+Carson City,Spring	28.0
+Carson City,Summer	21.0
+Carson City,Winter	31.0
+Charleston,Autumn	51.0
+Charleston,Spring	68.0
+Charleston,Summer	70.0
+Charleston,Winter	62.0
+Cheyenne,Autumn	33.0
+Cheyenne,Spring	55.0
+Cheyenne,Summer	44.0
+Cheyenne,Winter	48.0
+Columbia,Autumn	45.0
+Columbia,Spring	47.0
+Columbia,Summer	57.0
+Columbia,Winter	61.0
+Columbus,Autumn	49.0
+Columbus,Spring	62.0
+Columbus,Summer	63.0
+Columbus,Winter	53.0
+Concord,Autumn	52.0
+Concord,Spring	54.0
+Concord,Summer	55.0
+Concord,Winter	51.0
+Denver,Autumn	28.0
+Denver,Spring	52.0
+Denver,Summer	45.0
+Denver,Winter	34.0
+Des Moines,Autumn	37.0
+Des Moines,Spring	54.0
+Des Moines,Summer	45.0
+Des Moines,Winter	38.0
+Dover,Autumn	48.0
+Dover,Spring	55.0
+Dover,Summer	64.0
+Dover,Winter	62.0
+Frankfort,Autumn	47.0
+Frankfort,Spring	65.0
+Frankfort,Summer	63.0
+Frankfort,Winter	59.0
+Harrisburg,Autumn	44.0
+Harrisburg,Spring	62.0
+Harrisburg,Summer	63.0
+Harrisburg,Winter	53.0
+Hartford,Autumn	47.0
+Hartford,Spring	61.0
+Hartford,Summer	51.0
+Hartford,Winter	62.0
+Helena,Autumn	34.0
+Helena,Spring	47.0
+Helena,Summer	39.0
+Helena,Winter	62.0
+Honolulu,Autumn	39.0
+Honolulu,Spring	28.0
+Honolulu,Summer	40.0
+Honolulu,Winter	30.0
+Indianapolis,Autumn	49.0
+Indianapolis,Spring	64.0
+Indianapolis,Summer	48.0
+Indianapolis,Winter	54.0
+Jackson,Autumn	47.0
+Jackson,Spring	68.0
+Jackson,Summer	69.0
+Jackson,Winter	66.0
+Jefferson City,Autumn	47.0
+Jefferson City,Spring	64.0
+Jefferson City,Summer	51.0
+Jefferson City,Winter	43.0
+Juneau,Autumn	86.0
+Juneau,Spring	86.0
+Juneau,Summer	93.0
+Juneau,Winter	83.0
+Lansing,Autumn	61.0
+Lansing,Spring	57.0
+Lansing,Summer	52.0
+Lansing,Winter	60.0
+Lincoln,Autumn	32.0
+Lincoln,Spring	44.0
+Lincoln,Summer	43.0
+Lincoln,Winter	32.0
+Little Rock,Autumn	44.0
+Little Rock,Spring	68.0
+Little Rock,Summer	44.0
+Little Rock,Winter	60.0
+Madison,Autumn	44.0
+Madison,Spring	55.0
+Madison,Summer	57.0
+Madison,Winter	44.0
+Montgomery,Autumn	42.0
+Montgomery,Spring	53.0
+Montgomery,Summer	69.0
+Montgomery,Winter	51.0
+Montpelier,Autumn	58.0
+Montpelier,Spring	63.0
+Montpelier,Summer	62.0
+Montpelier,Winter	63.0
+Nashville,Autumn	50.0
+Nashville,Spring	66.0
+Nashville,Summer	56.0
+Nashville,Winter	58.0
+Oklahoma City,Autumn	35.0
+Oklahoma City,Spring	48.0
+Oklahoma City,Summer	36.0
+Oklahoma City,Winter	35.0
+Olympia,Autumn	72.0
+Olympia,Spring	79.0
+Olympia,Summer	27.0
+Olympia,Winter	85.0
+Phoenix,Autumn	16.0
+Phoenix,Spring	14.0
+Phoenix,Summer	25.0
+Phoenix,Winter	21.0
+Providence,Autumn	52.0
+Providence,Spring	59.0
+Providence,Summer	50.0
+Providence,Winter	52.0
+Raleigh,Autumn	38.0
+Raleigh,Spring	52.0
+Raleigh,Summer	51.0
+Raleigh,Winter	66.0
+Richmond,Autumn	42.0
+Richmond,Spring	54.0
+Richmond,Summer	54.0
+Richmond,Winter	55.0
+Sacramento,Autumn	18.0
+Sacramento,Spring	27.0
+Sacramento,Summer	2.0
+Sacramento,Winter	41.0
+Saint Paul,Autumn	47.0
+Saint Paul,Spring	50.0
+Saint Paul,Summer	56.0
+Saint Paul,Winter	46.0
+Salem,Autumn	64.0
+Salem,Spring	76.0
+Salem,Summer	29.0
+Salem,Winter	79.0
+Salt Lake City,Autumn	35.0
+Salt Lake City,Spring	45.0
+Salt Lake City,Summer	29.0
+Salt Lake City,Winter	55.0
+Santa Fe,Autumn	30.0
+Santa Fe,Spring	23.0
+Santa Fe,Summer	48.0
+Santa Fe,Winter	29.0
+Springfield,Autumn	43.0
+Springfield,Spring	66.0
+Springfield,Summer	48.0
+Springfield,Winter	47.0
+Tallahassee,Autumn	46.0
+Tallahassee,Spring	50.0
+Tallahassee,Summer	73.0
+Tallahassee,Winter	47.0
+Topeka,Autumn	36.0
+Topeka,Spring	60.0
+Topeka,Summer	43.0
+Topeka,Winter	33.0
+Trenton,Autumn	43.0
+Trenton,Spring	51.0
+Trenton,Summer	49.0
+Trenton,Winter	61.0
+Washington,Autumn	42.0
+Washington,Spring	56.0
+Washington,Summer	60.0
+Washington,Winter	58.0

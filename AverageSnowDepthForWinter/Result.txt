@@ -1,0 +1,45 @@
+Albany,Winter	43.55555555555556
+Annapolis,Winter	5.350553505535055
+Atlanta,Winter	0.0
+Augusta,Winter	126.24723247232473
+Austin,Winter	2.2509225092250924
+Bismarck,Winter	80.62730627306273
+Boise,Winter	14.132841328413285
+Carson City,Winter	3.106060606060606
+Charleston,Winter	7.822878228782288
+Cheyenne,Winter	15.719557195571955
+Columbia,Winter	0.36900369003690037
+Columbus,Winter	14.760147601476016
+Concord,Winter	130.8118081180812
+Denver,Winter	24.401544401544403
+Des Moines,Winter	82.06642066420665
+Dover,Winter	3.874538745387454
+Frankfort,Winter	7.638376383763838
+Hartford,Winter	37.49077490774908
+Helena,Winter	31.58671586715867
+Indianapolis,Winter	10.14760147601476
+Jackson,Winter	8.044280442804428
+Jefferson City,Winter	14.649446494464945
+Juneau,Winter	103.7269372693727
+Lansing,Winter	73.55350553505535
+Lincoln,Winter	41.06642066420664
+Little Rock,Winter	7.084870848708487
+Madison,Winter	121.25461254612546
+Montgomery,Winter	0.0
+Montpelier,Winter	143.3579335793358
+Nashville,Winter	3.6162361623616235
+Oklahoma City,Winter	8.450184501845019
+Olympia,Winter	0.0
+Phoenix,Winter	0.0
+Providence,Winter	19.70479704797048
+Raleigh,Winter	0.8487084870848709
+Richmond,Winter	1.1070110701107012
+Sacramento,Winter	0.0
+Saint Paul,Winter	136.6789667896679
+Salt Lake City,Winter	20.29520295202952
+Santa Fe,Winter	0.7011070110701108
+Springfield,Winter	19.88929889298893
+Tallahassee,Winter	0.0
+Topeka,Winter	7.195571955719557
+Trenton,Winter	7.232472324723247
+Washington,Winter	2.2140221402214024
