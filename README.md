@@ -1,3 +1,7 @@
+# Team: MapReducers
+Haebin Noh, Corey Unruh, William Colbert, Bishal Adhikari
+
+
 # MapReduce with Maven
 
 Core source from <https://github.com/bandiajay/MapReduce>; this project builds the map reducer with `maven` instead of eclipse and ensures that it works with the newest version of winutils (which may be necessary for Apache Beam; we'll see).
